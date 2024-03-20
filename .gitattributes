@@ -1,1 +1,2 @@
 *.db filter=lfs diff=lfs merge=lfs -text
+Data/IMDB.db filter=lfs diff=lfs merge=lfs -text
