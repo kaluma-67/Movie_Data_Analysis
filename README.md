@@ -1,41 +1,35 @@
-Movie Data Analysis
+## Movie Data Analysis
+![Alt Text](Images\Title Image.png)
 
+### Project Overview
+In this project, we delve into the dynamic landscape of the studio movie industry. Through meticulous descriptive analytics, we unearth a prevailing formula behind the creation of high-grossing movies. Armed with this invaluable insight, Microsoft can confidently navigate the realm of content production, making informed, data-driven decisions regarding the types of movies they should produce.
 
+### Business Problem
 
-Project Overview
-
-
-Business Problem
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. I am charged with exploring what types of films are currently doing the best at the box office and translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-Data
-The utilized data, in the folder(Data) was already provided.
-It was acquired from the sources listed below;
-Box Office MojoLinks to an external site.
-IMDBLinks to an external site.
-Rotten TomatoesLinks to an external site.
-TheMovieDBLinks to an external site.
-The NumbersLinks to an external site.
+### Data
+The data utilized in this project, located within the "Data" folder, had been readily supplied. Sourced from reputable platforms including Box Office Mojo, IMDb, Rotten Tomatoes, The Movie DB, and The Numbers, it forms the foundation of our analytical endeavors.
 
-Questions
 
-### 1. Which movie genres consistently demonstrate both popularity and profitability?
+
+#### 1. Which movie genres consistently demonstrate both popularity and profitability?
 Objective:
 
 Determine the various genres present in the dataset of profitable movies and identify the most popular ones.
 Recommendations
 
-### 2. How does budget correlate with revenue generation in profitable movies?
+#### 2. How does budget correlate with revenue generation in profitable movies?
 Objective:
 1. Establish the relationship between Revenue and Budget for profitable movies.
 2. Get the average Budget and corresponding average Revenue for profitable movies.
 
-### 3. Among the profitable movies, which original language is the most prevalent?
+#### 3. Among the profitable movies, which original language is the most prevalent?
 
-### 4. Who are the key competitors in the target industry?
+#### 4. Who are the key competitors in the target industry?
 Let's see how the top performing studios are doing.
 
-### 5. What is the relationship between movie ratings and revenue generation, and how do factors such as production budget influence this relationship?
+#### 5. What is the relationship between movie ratings and revenue generation, and how do factors such as production budget influence this relationship?
 Objective:
 
 What is the Average Rating of a profitable movie?
