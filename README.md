@@ -1,5 +1,5 @@
 ## Movie Data Analysis
-![Alt Text](Images\Logo_2.jpg)
+![Alt Text](https://github.com/kaluma-67/Movie_Data_Analysis/blob/master/Images/Title_Image.png)
 
 ### Project Overview
 In this project, we delve into the dynamic landscape of the studio movie industry. Through meticulous descriptive analytics, we unearth a prevailing formula behind the creation of high-grossing movies. Armed with this invaluable insight, Microsoft can confidently navigate the realm of content production, making informed, data-driven decisions regarding the types of movies they should produce.
