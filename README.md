@@ -1,5 +1,5 @@
 ## Movie Data Analysis
-![Alt Text](Images\Title Image.png)
+![Alt Text](Images\Title_Image.png)
 
 ### Project Overview
 In this project, we delve into the dynamic landscape of the studio movie industry. Through meticulous descriptive analytics, we unearth a prevailing formula behind the creation of high-grossing movies. Armed with this invaluable insight, Microsoft can confidently navigate the realm of content production, making informed, data-driven decisions regarding the types of movies they should produce.
@@ -12,12 +12,12 @@ Microsoft sees all the big companies creating original video content and they wa
 The data utilized in this project, located within the "Data" folder, had been readily supplied. Sourced from reputable platforms including Box Office Mojo, IMDb, Rotten Tomatoes, The Movie DB, and The Numbers, it forms the foundation of our analytical endeavors.
 
 
+#### Throughout the project, my aim is to address the following questions and, based on my findings, offer recommendations that will empower Microsoft to discern the optimal movie genres for production.
 
 #### 1. Which movie genres consistently demonstrate both popularity and profitability?
 Objective:
 
 Determine the various genres present in the dataset of profitable movies and identify the most popular ones.
-Recommendations
 
 #### 2. How does budget correlate with revenue generation in profitable movies?
 Objective:
